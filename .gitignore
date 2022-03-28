@@ -1,2 +1,2 @@
-# ignore img files
-*/img
+# ignore all img files
+**/img
